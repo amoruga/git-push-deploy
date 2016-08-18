@@ -25,7 +25,7 @@
             "type": "js",
             "script": "https://raw.githubusercontent.com/jelastic-jps/git-push-deploy/master/add-git-project.cs",
             "params": {
-              "url": "https://github.com/WordPress/WordPress.git",
+              "url": "https://github.com/amoruga/wsgi-helloworld.git",
               "branch": "master"
             },
             "user": "root"
