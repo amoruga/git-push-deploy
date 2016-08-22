@@ -23,7 +23,7 @@
         "execScript": [
           {
             "type": "js",
-            "script": "https://raw.githubusercontent.com/jelastic-jps/git-push-deploy/master/add-git-project.cs",
+            "script": "https://raw.githubusercontent.com/amoruga/git-push-deploy/w/o-auth/add-git-project.cs",
             "params": {
               "url": "https://github.com/amoruga/wsgi-helloworld.git",
               "branch": "master"
