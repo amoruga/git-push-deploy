@@ -21,7 +21,7 @@ With a help of this JPS add-on, Git-Push-Deploy is installed on app server avail
 
 In order to get this solution instantly deployed, click the "Deploy" button and press Install.
 
-[![Deploy](https://github.com/jelastic-jps/git-push-deploy/raw/master/images/deploy-button.png)](http://app.devops.virtuozzo.com//?manifest=https%3A%2F%2Fgithub.com%2Famoruga%2Fgit-push-deploy%2Fraw%2Fw/o-auth%2Fmanifest.jps)
+[![Deploy](https://github.com/amoruga/git-push-deploy/raw/w/o-auth/images/deploy-button.png)](http://app.devops.virtuozzo.com//?manifest=https%3A%2F%2Fgithub.com%2Famoruga%2Fgit-push-deploy%2Fraw%2Fw/o-auth%2Fmanifest.jps)
 
 To deploy this package to Jelastic Private Cloud, import [this JPS manifest](../../raw/w/o-auth/manifest.jps) within your dashboard ([detailed instruction](https://docs.jelastic.com/environment-export-import#import)).
 
