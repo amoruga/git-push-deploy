@@ -1,7 +1,5 @@
 ## Jelastic Git-Push-Deploy Add-on 
 
-[![Deploy](https://github.com/jelastic-jps/git-push-deploy/raw/master/images/deploy-to-jelastic.png)](https://jelastic.com/install-application/?manifest=https%3A%2F%2Fgithub.com%2Fjelastic-jps%2Fgit-push-deploy%2Fraw%2Fw/o-auth%2Fmanifest.jps) 
-
 This repository provides an example of automated CI with public git repository integration w/o authentication.
 
 ### What it can be used for?
